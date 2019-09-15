@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Coverage
+coverage
+
+# Docs
+docs/
+
+# Transpiled files
+build/
+dist/
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# JetBrains IDEs
+.idea/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Misc
+.DS_Store
+
+# Cache
+.cache
+
+# Expo
+.expo
+
+# Jest
+.jest
+<<<<<<< HEAD
+node_modules
+=======
+>>>>>>> 552a52100354de921ed61b6d5bf6f7c11507ea15
